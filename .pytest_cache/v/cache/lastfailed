@@ -1,0 +1,4 @@
+{
+  "scripts/test_login.py::Testlogin::()::test01[asdasd-1234567]": true,
+  "scripts/test_login.py::Testlogin::()::test01[asdasd-dasdas]": true
+}
